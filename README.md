@@ -29,4 +29,4 @@ Here is lots of Script snippets like PHP, Javascript, jQuery, CSS and etc.
 - [WordPress Scripts](https://github.com/shb-services/imortant-scripts-for-web/blob/main/WordPress%20Script.md)
 - [PHP Scripts](#)
 - [Javascript & jQuery Scripts](#)
-- [CSS Snippets](#)
+- [CSS Snippets](https://github.com/shb-services/imortant-scripts-for-web/blob/main/CSS%20Snippets.md)
