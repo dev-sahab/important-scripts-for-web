@@ -5,8 +5,6 @@
 
 ### Increase First Letter Font Size 
 
-![screenshot](https://github.com/shb-services/imortant-scripts-for-web/blob/main/assets/First%20Letter.png)
-
 ```css
 
 /* first letter css */
@@ -23,3 +21,7 @@ selector::first-letter {
 }
 
 ```
+#### Example
+![screenshot](https://github.com/shb-services/imortant-scripts-for-web/blob/main/assets/First%20Letter.png)
+
+#
