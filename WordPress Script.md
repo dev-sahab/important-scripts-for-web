@@ -25,11 +25,13 @@ if ( ! username_exists( $username ) ) {
 } );
 
 ```
-
+#
 
 ### Function to add sorting of sales items
 
-You can use the function below without any changes to achieve what we want in this guide but if you want to change text of the filter option you can do.
+![Screenshot](https://lakewood.media/wp-content/uploads/sites/50/2018/01/Woocommerce-Sort-By-Sales-Items.jpg)
+
+🔗 Referance Link: https://lakewood.media/woocommerce-add-sales-filter/
 
 ```PHP
 
