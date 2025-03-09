@@ -25,3 +25,33 @@ selector::first-letter {
 ![screenshot](https://github.com/shb-services/imortant-scripts-for-web/blob/main/assets/First%20Letter.png)
 
 #
+
+```css
+selector .elementor-widget-container::before {
+    position: absolute;
+    top: 0;
+    left: -100%;
+    display: block;
+    content: '';
+    width: 50%;
+    height: 100%;
+    background: linear-gradient(to right, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, .3) 100%);
+    transform: skewX(-25deg);
+    z-index: 2;
+}
+
+selector .elementor-widget-container:hover::before{
+    -webkit-animation: slide 1.3s;
+    animation: slide 1.3s;
+
+}
+
+@keyframes slide {
+    0% {
+        left: -100%;
+    }
+    100% {
+        left: 125%;
+    }
+}
+```
